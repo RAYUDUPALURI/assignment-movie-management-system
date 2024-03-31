@@ -1,6 +1,6 @@
 # Movie Management System
 
-![Movie Management System](https://your-website.com/your-project-image.png)
+![Movie Management System]
 
 ## Introduction
 The Movie Management System is a web application designed to simplify the process of managing and exploring movie reviews. It provides users with a platform to browse through a curated collection of movies, read existing reviews, and submit their own. Additionally, the system offers personalized recommendations based on user preferences, enhancing the overall movie-watching experience.
